@@ -5,7 +5,6 @@ body {
 
 div {
     background-color: rgba(0, 255, 170, 0.425)
-    border: dashed 10px red;
 }
 .second-div {
     background-color: rgb(0, 255, 170);
